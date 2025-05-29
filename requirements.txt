@@ -1,4 +1,4 @@
-gradio
+gradio>=3.16
 opencv-python
 mediapipe
 numpy
